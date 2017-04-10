@@ -2,6 +2,7 @@
 
 [![AppVeyor logo](AppVeyor.png)](https://appveyor-ci.org)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/r0c3wnwin26yvfto/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp14/branch/master)
 
 This GitHub is part of [the AppVeyor C++ Tutorial](https://github.com/richelbilderbeek/appveyor_cpp_tutorial).
 
@@ -16,7 +17,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
 
 More complex builds:
 
- * Use C++17: [appveyor_gcc_cpp14](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp17)
+ * Use C++17: [![Build status](https://ci.appveyor.com/api/projects/status/r34ld400rp98dh6o/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp17/branch/master) [appveyor_gcc_cpp17](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp17)
 
 Equally complex builds:
 
