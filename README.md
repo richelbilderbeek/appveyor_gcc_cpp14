@@ -18,6 +18,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
 More complex builds:
 
  * Use C++17: [![Build status](https://ci.appveyor.com/api/projects/status/r34ld400rp98dh6o/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp17/branch/master) [appveyor_gcc_cpp17](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp17)
+ * Add `qmake`: [![Build status](https://ci.appveyor.com/api/projects/status/8otskad85edx7m4m/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-qmake-gcc-cpp14/branch/master) [appveyor_qmake_gcc_cpp17](https://www.github.com/richelbilderbeek/appveyor_qmake_gcc_cpp17)
 
 Equally complex builds:
 
